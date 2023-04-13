@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.5)
 
 
 
-project(obs_qt_test LANGUAGES CXX)
+project(qt_obs_test LANGUAGES CXX)
 
 include_directories(AFTER "/usr/local/include/obs")
 
